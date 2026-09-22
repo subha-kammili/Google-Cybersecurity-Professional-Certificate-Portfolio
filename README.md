@@ -12,6 +12,7 @@ The portfolio includes hands-on activities and projects involving security audit
 Issued by Google through Coursera
 
 **[View My Verified Digital Badge](https://www.credly.com/badges/41cbf42e-899e-484c-aa3e-dd19f080d432/public_url)**
+
 **[View Certificate](KammiliSubha_Google_Cybersecurity_Professional_Certificate_v2.pdf)**
 
 ---
